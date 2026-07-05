@@ -1,4 +1,3 @@
-ZeeKota Multi Job
 ZeeKota Multi Job is a secure multi-job resource for FiveM servers. It stores character-specific jobs, lets players switch jobs and duty status through a custom NUI, and gives administrators an in-game panel for online and offline character job management.
 
 Features
